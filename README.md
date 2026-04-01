@@ -94,3 +94,8 @@ Other factors such as category, segment, and geography contribute but do not exp
 ## Key Insight
 
 > Revenue does not equal profitability — discounting strategy determines profit health.
+
+## Project File
+
+- Download the full analysis here:
+[Profitability Analysis Excel](Profitability-Analysis.xlsx)
